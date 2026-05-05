@@ -71,15 +71,6 @@ Recent Michigan State University graduate with a B.S. in Data Science (May 2026)
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nemethb3&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemethb3&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
-
----
-
 ## 📬 Get in Touch
 
 - 📧 [brendannemeth@gmail.com](mailto:brendannemeth@gmail.com)
